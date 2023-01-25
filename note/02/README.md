@@ -24,5 +24,11 @@ Notes between 23-27 January 2023 at [148400](https://edunex.itb.ac.id/courses/45
   + [bar](https://github.com/dudung/py-jupyter-nb/blob/main/src/pandas/excel/chart/bar.ipynb)
   + [hbar](https://github.com/dudung/py-jupyter-nb/blob/main/src/pandas/excel/chart/hbar.ipynb)
   + [3d_scatter](https://github.com/dudung/py-jupyter-nb/blob/main/src/pandas/excel/chart/3d_scatter.ipynb)
+  + [linspace](https://github.com/dudung/py-jupyter-nb/blob/main/src/fft/linscape.ipynb)
+  + [generator](https://github.com/dudung/py-jupyter-nb/blob/main/src/fft/generator.ipynb)
+  + [plot_wave_curve](https://github.com/dudung/py-jupyter-nb/blob/main/src/fft/plot_wave_curve.ipynb)
+  + [mix_signal](https://github.com/dudung/py-jupyter-nb/blob/main/src/fft/mix_signal.ipynb)
+  + [save_wav_file](https://github.com/dudung/py-jupyter-nb/blob/main/src/fft/save_wav_file.ipynb)
+  + [beats](https://github.com/dudung/py-jupyter-nb/blob/main/src/fft/beats.ipynb)
 - Task
   + 01 [Create GitHub account and fork two repositories](https://github.com/dudung/fi6004-01-2022-2/issues/1)
