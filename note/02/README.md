@@ -6,7 +6,10 @@ Notes between 23-27 January 2023 at [148400](https://edunex.itb.ac.id/courses/45
   + Rooms
     - ~1202~ 9310 at 0900-1040 for Wednesday (25 Jan)
 - Materials
-  + ..
+  + [Repositori kuliah dan contoh program Python](20220125-0.jpeg)
+  + [Akses berkas Excel](20220125-1.jpeg)
+  + [Langkah menggunakan Pandas](20220125-2.jpeg)
+  + [Meilih kolom data pada dataframe](20220125-3.jpeg)
 - Codes
   + [read_file](https://github.com/dudung/py-jupyter-nb/blob/main/src/pandas/excel/basic/read_file.ipynb)
   + [read_file_sheet](https://github.com/dudung/py-jupyter-nb/blob/main/src/pandas/excel/basic/read_file_sheet.ipynb)
