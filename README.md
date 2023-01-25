@@ -1,5 +1,5 @@
 # fi6004-01-2022-2
-Edunex [44705](https://edunex.itb.ac.id/courses/44705/preview), FI4002 Simulation and Modelling of Physical Systems, Class 01, Academic Year 2022, Semester 2.
+Edunex [45279](https://edunex.itb.ac.id/courses/45279/preview), FI6004 Physical Data Processing, Class 01, Academic Year 2022, Semester 2.
 
 
 ## info
