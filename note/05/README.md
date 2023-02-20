@@ -6,6 +6,6 @@ Notes between 13 - 17 February 2023.
   + Rooms
     - 9310 at 0900-1040 for Wednesday (8 Feb)
 - Materials
-  + ..
-- Codes
-  + ..
+  + Diskusi data untuk dianalisis dengan FFT.
+- Tugas: Kerjakan tugas di bawah ini.
+  + [Review materials and exercises](https://github.com/dudung/fi6004-01-2022-2/issues/2)
