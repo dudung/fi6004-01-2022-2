@@ -16,3 +16,4 @@ Notes between 6 - 10 March 2023.
   + 20222017: [wav](20222017.wav)
 - UTS (take-home part)
   + Lihat dalam lembar soal UTS saat mengerjakan in-class part.
+  + Submit ke [Edunex](https://edunex.itb.ac.id/courses/45279/preview/160298/68902) dan [GitHub](https://github.com/dudung/fi6004-01-2022-2/issues/4) sampai jam 23.59 pada hari Kamis, 9 Maret 2023.
