@@ -2,7 +2,7 @@
 Notes between 6 - 10 March 2023.
 
 - Information
-  + Edunex at [155366](https://edunex.itb.ac.id/courses/45279/preview/155366).
+  + Edunex at [160298](https://edunex.itb.ac.id/courses/45279/preview/160298).
   + Rooms
     - [1203](https://github.com/dudung/fi6004-01-2022-2/issues/3#issuecomment-1437951120) at 1100-1300 for Thursday (9 Mar)
 - Data (sesuai NIM).
