@@ -8,3 +8,4 @@ Notes between 27 - 31 March 2023.
 - RBL
   + [Format slide dan ketentuannya](20230329-0.jpeg)
   + [Usulan awal topik RBL](20230329-1.jpeg)
+  + [Tugas slide usulan RLB](https://github.com/dudung/fi6004-01-2022-2/issues/5)
